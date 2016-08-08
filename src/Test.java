@@ -18,7 +18,7 @@ public class Test {
 		for (int i = 0; i < moves.length; i++) {
 			System.out.println(moves[i].getScore());
 		}
-		System.out.println(123);
+		System.out.println();
 	}
 	
 	
